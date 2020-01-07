@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi friends,
+            i want to become a developer.i knows python,php...
